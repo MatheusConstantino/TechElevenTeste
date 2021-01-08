@@ -1,0 +1,9 @@
+@import 'background.css';
+@import 'colors.css';
+@import 'owl.css';
+@import 'text.css';
+
+hr{
+    color: #ff490a !important;
+    background-color: #ff490a !important;
+}

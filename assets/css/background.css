@@ -1,0 +1,48 @@
+.brand{
+    background-color: #0000ff;
+    color: #FFF;
+}
+
+.orange{
+    background-color: #ff490a;
+    color: #FFF;
+}
+
+.grey{
+    background-color: #666666;
+}
+
+#main-banner{
+    height: 565px;
+    background-image: url('../img/carSale.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#facilities{
+    height: 400px;
+    background-image: url('../img/cellphone.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.parallax {
+    background-image: url("../img/cellphone.jpg");
+    height: 400px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  .banner-item:active{
+      color:#ff490a;
+      text-shadow: #000;
+  }
+
+  .banner-item:hover{
+    color:#ff470ab1;
+}
+
+
+
